@@ -1,0 +1,6 @@
+name: 'Style Management'
+type: module
+description: 'Simple description'
+configure: style_management.settings
+core: 8.x
+package: 'Custom'

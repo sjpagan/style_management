@@ -1,0 +1,5 @@
+style_management.settings:
+  title: 'Style Management'
+  route_name: style_management.settings
+  parent: system.admin_config_development
+  weight: 99

@@ -1,0 +1,10 @@
+variables-editor:
+  version: 1.x
+  css:
+    base:
+      assets/css/edit-var.css: {}
+  js:
+    assets/js/var-edit.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once

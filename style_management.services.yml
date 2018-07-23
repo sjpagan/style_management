@@ -1,0 +1,4 @@
+services:
+  style_management.compiler:
+    class: Drupal\style_management\CompilerService
+    arguments: []
